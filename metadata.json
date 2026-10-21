@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Growth | Digital Marketing Client Reporting Dashboard",
+  "description": "High-fidelity digital marketing client reporting dashboard with SEO rankings, Google Business Profile analytics, paid ads ROAS, traffic attribution, and conversion lead tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
